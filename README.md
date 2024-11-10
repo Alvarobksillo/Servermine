@@ -1,2 +1,1 @@
-# Servermine
-server
+
